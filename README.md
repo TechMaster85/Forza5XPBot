@@ -1,6 +1,6 @@
 # Forza XP Bot
 ## How this works:
-- In Forza 5 (PC only, sorry Xbox players), open a specific custom map that will give you experience.
+- In Forza 5 (PC only, sorry Xbox players), open a specific custom map that will give you experience (you'll see in the script).
 - Change your settings so that your car will steer automatically.
 - Once you're on the start screen, run this bot.
 - It will repeatedly drive for you and repeatedly play the map again.
@@ -11,11 +11,11 @@
 
 ## How to edit the script:
 - Install Python 3.10 via the [Microsoft Store](https://www.microsoft.com/store/productId/9PJPW5LDXLZ5). This is the most convenient way to install Python.
-- It's easiest to change the variables at the top depending on how fast your computer is and your car is.
+- It's easiest to change the variables at the top depending on how fast your computer is and how fast your car is.
 - Open a command prompt, go to this directory, and run `venv\Scripts\activate.bat`.
 - If you did it correctly, you should see a (venv) at the start of the prompt.
 - Run `python main.py`.
-- To create an exe file for convenience (so your or someone else won't have to install Python), here's how:
+- To create an exe file for convenience (so you or someone else won't have to install or use Python), here's how:
 
 ## How to create a custom exe file:
 - Make sure you're in a (venv) by following the first three instructions under "How to edit the script".
